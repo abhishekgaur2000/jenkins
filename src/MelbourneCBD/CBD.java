@@ -10,7 +10,7 @@ public class CBD {
     public static void main(String args[]){
 
         CBD varCBD = new CBD();
-        System.out.print("AbhishekEnters");
+        System.out.print("Abhishek Enters");
         System.out.print(varCBD.publicVariable + " " + varCBD.protectedVariable + " " + varCBD.defaultVariable + " " + varCBD.privateVariable);
     }
 
